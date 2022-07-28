@@ -14,6 +14,7 @@ We initially read the “schools_complete.csv” and “students_complete.csv”
 ## Results
 
 **How is the district summary affected?**
+
 The results showed that average math and average reading did not significantly affected and the numbers round to the same value
 
 **How is the school summary affected?**
