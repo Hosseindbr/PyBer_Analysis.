@@ -36,3 +36,8 @@ Only medium sized school affected by around one percent
 - Scores by school type
 No change was observed in the District type while each metrics in the Charter type , where Thomas High school was categorized, impacted by 0.1%.
 ## Summary 
+
+1. Number of students remained constant
+2. Math grades were affected more than reading grades
+3. School ranking, including Thomos High School remained untouched 
+4. In the charter school type, scores was affected by the updating the scores
