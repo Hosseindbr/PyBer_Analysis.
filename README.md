@@ -6,9 +6,13 @@ In this challenge we aimed to provide ridesharing information for V. Isualize to
 ## Resources
 
 city_data.csv 
+
 ride_data.csv
+
 Python version 3.9.12 
+
 Conda version 4.13.0 
+
 anaconda Command line client version 1.10.0
 ## Results
 Figure 1 demonstrates the total fare by city type in 2019 as a function of time. As we can see all groups almost follow a similar pattern in which fare amounts in each group was fluctuating within a certain a range. The average fare in urban group is significantly higher than those of suburban. Noteworthy, the total fare in urban group is two times and 9 times fold higher than those of suburban and rural groups (Figure 2). Furthermore, the results imply that the highest average fare per ride and driver belongs to the rural and suburban city types, respectively. This shows that the trips in these locations are less economical to the customers.
