@@ -15,7 +15,9 @@ Conda version 4.13.0
 
 anaconda Command line client version 1.10.0
 ## Results
-Figure 1 demonstrates the total fare by city type in 2019 as a function of time. As we can see all groups almost follow a similar pattern in which fare amounts in each group was fluctuating within a certain a range. The average fare in urban group is significantly higher than those of suburban. Noteworthy, the total fare in urban group is two times and 9 times fold higher than those of suburban and rural groups (Figure 2). Furthermore, the results imply that the highest average fare per ride and driver belongs to the rural and suburban city types, respectively. This shows that the trips in these locations are less economical to the customers.
+Figure 1 demonstrates the total fare by city type in 2019 as a function of time. As we can see all groups almost follow a similar pattern in which fare amounts in each group was fluctuating within a certain a range. The average fare in urban group is significantly higher than those of suburban. 
+![plot](/Users/hosseindabiri/Python/Github/PyBer_Analysis./Resources/Total_Fare_by_City_Type_in_2019.jpeg)
+Noteworthy, the total fare in urban group is two times and 9 times fold higher than those of suburban and rural groups (Figure 2). Furthermore, the results imply that the highest average fare per ride and driver belongs to the rural and suburban city types, respectively. This shows that the trips in these locations are less economical to the customers.
 ## Sumary
 Several recommendations can be made in order to reduce disparities between urban, suburban and rural areas:
 1.	Performing market studies to balance supply and demand in the rural and suburban area to reduce the service cost to the customer and increase the number of rides.
