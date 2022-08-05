@@ -24,7 +24,7 @@ Figure 1 demonstrates the total fare by city type in 2019 as a function of time.
 Noteworthy, the total fare in urban group is two times and 9 times fold higher than those of suburban and rural groups (Figure 2). Furthermore, the results imply that the highest average fare per ride and driver belongs to the rural and suburban city types, respectively. This shows that the trips in these locations are less economical to the customers.
     <img width="623" alt="Screen Shot 2022-08-04 at 9 49 11 PM" src="https://user-images.githubusercontent.com/108313440/182984409-c862428d-e999-4693-b366-9d2aeb01cf26.png">
                       
-                     Figure.2 Summary of Analysis
+                          Figure.2 Summary of Analysis
 
 ## Sumary
 Several recommendations can be made in order to reduce disparities between urban, suburban and rural areas:
